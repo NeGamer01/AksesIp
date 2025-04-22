@@ -1,4 +1,6 @@
 {
-  "allowed_ips": [],
-  "last_updated": "2025-04-22T04:33:17.537Z"
+  "allowed_ips": [
+    "47.236.197.245"
+  ],
+  "last_updated": "2025-04-22T04:39:37.756Z"
 }
